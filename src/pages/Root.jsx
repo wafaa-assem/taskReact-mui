@@ -1,5 +1,5 @@
 import { Outlet } from "react-router-dom";
-import Appbar from "../Components/AppBar";
+import Appbar from "../Components/Appbar";
 import DrawerComponent from "../Components/DrawerComponent";
 import Box from "@mui/material/Box";
 import { ThemeProvider, createTheme, useTheme } from "@mui/material/styles";
